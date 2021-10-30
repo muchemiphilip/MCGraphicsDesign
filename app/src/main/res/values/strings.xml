@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MCGraphicsDesign</string>
+
+    <string name="developed_by">M&amp;C Design | Print | Brand</string>
+    <string name="videography_amp_photography"><![CDATA[Videography & Photography]]></string>
+    <string name="graphics_design">Graphics Design</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="company_profiles">Company Profiles</string>
+    <string name="user">User</string>
+    <string name="about">About</string>
+    <string name="log_out">Log Out</string>
+    <string name="facebook">FaceBook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="software_development">Software Development</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
