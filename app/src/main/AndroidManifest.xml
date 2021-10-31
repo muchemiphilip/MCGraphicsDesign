@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MCGraphicsDesign">
         <activity
+            android:name=".PhotographyActivity"
+            android:exported="false" />
+        <activity
             android:name=".SoftwareDevActivity"
             android:exported="false" />
         <activity
