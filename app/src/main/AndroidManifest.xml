@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.github.mcgraphicsdesign">
 
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -10,6 +11,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MCGraphicsDesign">
+        <activity
+            android:name=".SoftwareDevActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GraphicsDesignActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhotographyActivity"
+            android:exported="false" />
         <activity
             android:name=".HomePageActivity"
             android:exported="true" />
